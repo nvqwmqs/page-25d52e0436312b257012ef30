@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "1e0bf4458d8e719be3782c96",
+  "owner": "nvqwmqs",
+  "repo": "page-25d52e0436312b257012ef30",
+  "title": "杜卡迪",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "25d52e0436312b257012ef30",
+      "a": "杜卡迪",
+      "b": "2027最新官网",
+      "entity": "杜卡迪",
+      "brand": "杜卡迪",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "f1f74b9633ed9feaa1e7d8f59d8178832dea993d38ff6268ae67eb49f09ddaee",
+      "content": {
+        "primary_entity": "杜卡迪",
+        "keyword1": "杜卡迪",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_DESCRIPTION": "，面向日常跨区访问、流媒体播放与游戏联机场景，提供基础版、旗舰版、团队版三档订阅，每月流量从100GB到1000GB，支持3至20台设备同时在线，可按月或按年付费，配合IPLC专线节点应对延迟敏感需求。",
+          "AI_HERO_SUBTITLE": "杜卡迪海外加速器多端订阅",
+          "AI_HERO_INTRO": "杜卡迪海外加速器为需要跨区访问的用户准备了三档订阅，覆盖个人轻量使用、多设备家庭与小型团队场景。按月或按年付费，依据设备数量和流量需求选择合适套餐，再配合客户端完成订阅配置即可开始使用。",
+          "AI_VISUAL_TITLE": "杜卡迪三档订阅任你选",
+          "AI_HIGHLIGHT_1": "每月100GB起，最高1000GB流量",
+          "AI_HIGHLIGHT_2": "3至20台设备同时在线可选",
+          "AI_HIGHLIGHT_3": "IPLC专线节点优化游戏延迟",
+          "AI_FEATURES_TITLE": "套餐与设备适配要点",
+          "AI_FEATURES_INTRO": "从流量、设备数量与订阅周期三个角度挑选适合自己的档位。",
+          "AI_FEATURE_TITLE_1": "按流量选档",
+          "AI_FEATURE_TEXT_1": "基础版每月100GB适合单人浏览，旗舰版300GB适合流媒体，团队版1000GB适合多人共享。",
+          "AI_FEATURE_TITLE_2": "按设备数选档",
+          "AI_FEATURE_TEXT_2": "3台、5台、20台三档在线设备上限，手机、平板、电脑可按需分配，团队版更适合小组共用。",
+          "AI_FEATURE_TITLE_3": "按周期付费",
+          "AI_FEATURE_TEXT_3": "按月付费灵活，按年付费基础版¥150/年、旗舰版¥350/年、团队版¥850/年，长期使用更省。",
+          "AI_PLANS_TITLE": "三档订阅方案对比",
+          "AI_PLANS_INTRO": "基础版¥15/月、旗舰版¥35/月、团队版¥85/月，按设备数量与流量需求对应选择。",
+          "AI_CLIENTS_TITLE": "客户端选择参考",
+          "AI_CLIENTS_INTRO": "不同系统对应不同客户端，安装后导入订阅链接即可使用。",
+          "AI_GUIDE_TITLE": "三步完成订阅配置",
+          "AI_GUIDE_INTRO": "先确认套餐与设备，再按客户端文档完成订阅导入。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TEXT_1": "根据常用设备数量与每月流量需求，在基础版、旗舰版、团队版中挑选一档。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认系统版本与客户端类型，记录套餐对应的设备在线数量上限。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "在客户端中按文档导入订阅地址，保存后选择节点即可连接使用。",
+          "AI_FAQ_INTRO": "流量、设备数量与付费周期。",
+          "AI_CLOSING_TITLE": "选对档位轻松连接",
+          "AI_CLOSING_TEXT": "先明确设备数量与流量需求，再对照三档套餐完成订阅配置。",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB 流量，旗舰版每月 300GB，团队版每月 1000GB。轻度浏览选基础版，常看高清视频或玩游戏选旗舰版，多设备共享选团队版。",
+          "AI_FAQ_ANSWER_2": "支持同时在线的设备数因套餐不同。基础版 3 台，旗舰版 5 台，团队版 20 台，按日常需要同时连接的设备数量来选。",
+          "AI_FAQ_ANSWER_3": "月付适合短期体验与灵活调整，年付总价更低且周期稳定。基础版年付 150 元，旗舰版年付 350 元，团队版年付 850 元。",
+          "AI_FAQ_ANSWER_4": "通常导入订阅后即可在客户端内选择节点。不同系统与客户端版本操作位置略有差别，按对应客户端的配置说明完成导入和选点即可。",
+          "AI_FAQ_ANSWER_5": "可以。同一订阅在多种设备类型上分别按客户端配置，具体同时在线数量仍以所购套餐的设备上限为准，超出上限需要升级套餐。",
+          "AI_FAQ_QUESTION_1": "不同套餐的流量区别大吗？",
+          "AI_FAQ_QUESTION_2": "一个套餐能同时在几台设备上使用？",
+          "AI_FAQ_QUESTION_3": "月付和年付怎么选？",
+          "AI_FAQ_QUESTION_4": "订阅导入后如何切换节点？",
+          "AI_FAQ_QUESTION_5": "可以在手机和电脑上同时使用吗？",
+          "AI_FAQ_TITLE": "套餐与使用常见疑问"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--vpn-9i9ds1m.com",
+    "host": "xn--vpn-9i9ds1m.com"
+  },
+  "file_hashes": {
+    "index.html": "8f307e0cb5630acd5fb15743b5f2bee479283d3c786fb66204deafb22b2bd476",
+    "sitemap.xml": "9ea07155b944b0fa51fe42d3aeb27967a4cd2a8bbda12538e3b389281c7622fb",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "ad045f721873b3d845dff180a4654ae3b44db051e3e9e042f096f3bf4b910cdd",
+    "robots.txt": "46437fe6fef808477e9edea2f14e456dc3b79e5e655732684ab6ac31a8e1bbfb",
+    "43efc48674654e306364837c6271b995.txt": "b52601cf4c0d0188166e78724a343fe4ea8e7e0f383949cfa5c5102849c1bcaa"
+  },
+  "revision": "24af583cb7f026dcd52d8a9afebe43914a5a4f627b933136cb8669ac058893ac"
+}
